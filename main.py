@@ -1,3 +1,5 @@
+# First try to create Telegram Chatbot
+
 import random
 
 import telebot
