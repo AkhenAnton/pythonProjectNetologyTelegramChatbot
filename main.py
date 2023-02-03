@@ -1,4 +1,4 @@
-# First try to create Telegram Chatbot
+# First try to create Telegram ChatBot
 
 import random
 
